@@ -1,6 +1,6 @@
-# FM Station Web System
+# Kasambabezi FM - Kariba's Voice of Empowerment and Development
 
-A modern, responsive web application for a radio station featuring live streaming, show schedules, DJ profiles, song requests, and more.
+A modern, responsive web application for Kasambabezi radio station featuring live streaming, show schedules, DJ profiles, song requests, and more.
 
 ## Features
 
@@ -47,7 +47,7 @@ A modern, responsive web application for a radio station featuring live streamin
 ## File Structure
 
 ```
-FM Station/
+Kasambabezi FM/
 ├── index.html          # Main HTML file
 ├── styles.css          # Complete styling and responsive design
 ├── script.js           # JavaScript functionality
@@ -95,6 +95,7 @@ audioStream.src = 'https://your-streaming-server.com/stream.mp3';
 1. **Station Information**:
    - Update station name in the logo section of `index.html`
    - Modify contact information in the contact section
+   - Station motto: "Kariba's Voice of Empowerment and Development"
 
 2. **Schedule**:
    - Edit the schedule data in `index.html` or modify the `updateCurrentShow()` function in `script.js`
@@ -179,9 +180,11 @@ This project is open source and available under the MIT License.
 ## Support
 
 For support or questions:
-- Email: studio@fmstation.com
-- Phone: +1 (555) 123-4567
+- Email: studio@kasambabezi.fm
+- Phone: +263 XXX XXX XXX
 
 ---
 
-**Enjoy your FM Station web system!** 🎧
+**Enjoy your Kasambabezi FM web system!** 🎧
+
+*Kariba's Voice of Empowerment and Development*
